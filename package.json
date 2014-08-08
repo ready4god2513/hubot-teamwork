@@ -1,0 +1,23 @@
+{
+  "name": "hubot-teamwork",
+  "version": "0.0.1",
+  "description": "Interact with the teamwork api via your hubot.  Supports listing and completing tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "scripts/cibuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ready4god2513/hubot-teamwork.git"
+  },
+  "keywords": [
+    "hubot",
+    "teamwork"
+  ],
+  "author": "Brandon Hansen <contact@aisforarray.com> (http://resume.aisforarray.com/)",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/ready4god2513/hubot-teamwork/issues"
+  },
+  "homepage": "https://github.com/ready4god2513/hubot-teamwork"
+}
